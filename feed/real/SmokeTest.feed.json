@@ -1,0 +1,8 @@
+{
+  "runs": [
+    {
+      "collection": "./collections/real/SmokeTest.json",
+      "environment": "./environment/real/local.env.json"
+    }
+  ]
+}
