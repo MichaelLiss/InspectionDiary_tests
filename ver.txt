@@ -1,1 +1,4 @@
+0.0.1
+Added in working files and inspection diary smoke test feed file 
+
 0.0.0
